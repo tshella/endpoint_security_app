@@ -1,0 +1,39 @@
+﻿  anomaly_detector.cpp
+  backend.cpp
+  file_integrity.cpp
+  network_monitor.cpp
+  server.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  breach_notifier.cpp
+  data_breach_monitor.cpp
+  aes_encryption.cpp
+  encryption.cpp
+C:\Users\AnthonyR\Documents\Tshella Applications\endpoint_security_app\backend\src\encryption\aes_encryption.cpp(30,120): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\AnthonyR\Documents\Tshella Applications\endpoint_security_app\backend\src\encryption\aes_encryption.cpp(54,137): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\AnthonyR\Documents\Tshella Applications\endpoint_security_app\backend\src\encryption\encryption.cpp(38,120): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\AnthonyR\Documents\Tshella Applications\endpoint_security_app\backend\src\encryption\encryption.cpp(62,137): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  permission_checker.cpp
+  permission_monitor.cpp
+  scanner.cpp
+  signature_database.cpp
+  browsing_monitor.cpp
+  web_filter.cpp
+  vpn_encryption.cpp
+C:\Users\AnthonyR\Documents\Tshella Applications\endpoint_security_app\backend\src\vpn\vpn_encryption.cpp(24,128): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\AnthonyR\Documents\Tshella Applications\endpoint_security_app\backend\src\vpn\vpn_encryption.cpp(39,127): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  vpn_manager.cpp
+  threat_detection.cpp
+  threat_intelligence.cpp
+  utility.cpp
+C:\Users\AnthonyR\Documents\Tshella Applications\endpoint_security_app\backend\utility.cpp(19,69): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\AnthonyR\Documents\Tshella Applications\endpoint_security_app\backend\utility.cpp(19,69): warning C4267:         with
+C:\Users\AnthonyR\Documents\Tshella Applications\endpoint_security_app\backend\utility.cpp(19,69): warning C4267:         [
+C:\Users\AnthonyR\Documents\Tshella Applications\endpoint_security_app\backend\utility.cpp(19,69): warning C4267:             _Ty=int
+C:\Users\AnthonyR\Documents\Tshella Applications\endpoint_security_app\backend\utility.cpp(19,69): warning C4267:         ]
+  Generating Code...
+  backend.vcxproj -> C:\Users\AnthonyR\Documents\Tshella Applications\endpoint_security_app\backend\x64\Debug\backend.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

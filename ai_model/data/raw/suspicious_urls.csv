@@ -1,0 +1,29 @@
+url,reason,date_added,source
+http://malicious-site.com,suspicious_keyword,2023-10-01,VirusTotal
+http://phishing-attack.net,phishing,2023-10-05,IBM X-Force
+http://ransomware-hub.org,known_ransomware_source,2023-10-10,VirusTotal
+http://short.ly/abc123,shortened_url,2023-10-15,IBM X-Force
+http://clickbait-site.info,clickbait,2023-10-20,VirusTotal
+http://spyware-download.com,spyware_delivery,2023-10-25,IBM X-Force
+http://botnet-control.xyz,botnet_command_and_control,2023-11-01,VirusTotal
+http://free-trojans.ru,trojan_delivery,2023-11-05,IBM X-Force
+http://fake-update-alert.com,keylogger_distribution,2023-11-10,VirusTotal
+http://exploits-portal.net,exploit_delivery,2023-11-15,IBM X-Force
+http://worm-payloads.info,worm_propagation,2023-11-20,VirusTotal
+http://login-stealer.biz,credential_theft,2023-11-25,IBM X-Force
+http://sql-attack.com,sql_injection_point,2023-11-30,VirusTotal
+http://cross-site.com,xss_vulnerability,2023-12-01,IBM X-Force
+http://hidden-rootkits.org,rootkit_distribution,2023-12-05,VirusTotal
+http://password-theft.com,credential_theft,2023-12-10,IBM X-Force
+http://adware-mania.com,adware_delivery,2023-12-15,VirusTotal
+http://malicious-update.net,malware_delivery,2023-12-20,IBM X-Force
+http://fake-bank-login.com,phishing,2023-12-25,VirusTotal
+http://ransom-note.biz,ransomware_distribution,2024-01-01,IBM X-Force
+http://email-scammers.cc,keylogger_delivery,2024-01-05,VirusTotal
+http://ad-clicker.org,adware_delivery,2024-01-10,IBM X-Force
+http://exploits-zone.com,exploit_delivery,2024-01-15,VirusTotal
+http://worm-downloader.net,worm_distribution,2024-01-20,IBM X-Force
+http://steal-my-password.com,credential_theft,2024-01-25,VirusTotal
+http://botnet-hub.io,botnet_control,2024-01-30,IBM X-Force
+http://fake-update-link.com,dos_attack,2024-02-01,VirusTotal
+http://phishing-haven.info,phishing,2024-02-05,IBM X-Force
